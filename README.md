@@ -49,6 +49,19 @@ The system follows an event-driven automation architecture orchestrated by **n8n
 
 ---
 
+## Visual Overview
+
+### End-to-End Workflow
+![End-to-End Workflow](assets/workflow-overview.png)
+
+### AI Parsing & Confidence-Based Routing
+![AI Parsing and Routing](assets/ai-parsing-and-routing.png)
+
+### Logging & Manual Review
+![Logging and Manual Review](assets/logging-and-review.png)
+
+---
+
 ## Workflow Breakdown (Modules)
 
 ### 1. Intake & Normalization
